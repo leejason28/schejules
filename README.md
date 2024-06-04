@@ -1,8 +1,8 @@
 SCHEJULES
 
-scheduling app intended for use by restaurants/food service businesses
-assigns employees to shifts based on business needs and employee availability
-shifts are assigned randomly and the user has to ability to increase the odds of a certain employee being assigned a shift
+scheduling app intended for use by restaurants/food service businesses <br />
+assigns employees to shifts based on business needs and employee availability <br />
+shifts are assigned randomly and the user has to ability to increase the odds of a certain employee being assigned a shift <br />
 
 use: <br />
 update 'employees.txt' with all employees and whatever shifts they are unavailable for
