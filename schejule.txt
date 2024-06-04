@@ -1,0 +1,22 @@
+day,shift,employee 
+M 6:30-12:30 Ashley 
+M 8:00-15:00 Jason 
+M 12:30-18:30 Sean 
+Tu 6:30-12:30 Bless 
+Tu 8:00-15:00 Sean 
+Tu 12:30-18:30 Jason 
+W 6:30-12:30 Rich 
+W 8:00-16:00 Jason 
+W 12:30-18:30 Ashley 
+Th 6:30-12:30 Rich 
+Th 8:00-16:00 Sean 
+Th 12:30-18:30 Jason 
+F 6:30-12:30 Ashley 
+F 8:00-16:00 Jason 
+F 12:30-18:30 Joanne 
+Sa 6:30-12:30 Joanne 
+Sa 8:00-16:00 Rich 
+Sa 12:30-18:30 Jason 
+Su 6:30-12:30 Ashley 
+Su 8:00-16:00 Jason 
+Su 12:30-18:30 Joanne

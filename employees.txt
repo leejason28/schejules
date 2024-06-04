@@ -1,0 +1,20 @@
+name,unavailable day,unavailable start-end
+Rich,M,11:00-18:30
+Rich,Tu,12:30-18:30
+Rich,W,12:30-18:30
+Rich,Th,12:30-18:30
+Rich,F,12:30-18:30
+Rich,Su,6:30-12:30
+Bless,M,15:00-18:30
+Bless,Tu,15:00-18:30
+Bless,W,15:00-18:30
+Bless,Th,15:00-18:30
+Bless,F,15:00-18:30
+Bless,Su,6:30-18:30
+Joanne,Tu,6:30-18:30
+Joanne,Th,6:30-18:30
+Sean,F,6:30-18:30
+Sean,Sa,6:30-18:30
+Sean,Su,6:30-18:30
+Jason,None
+Ashley,None
